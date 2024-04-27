@@ -11,8 +11,8 @@
   DTS:LocaleID="1038"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="115"
-  DTS:VersionGUID="{74AE6AD8-AC71-4AAA-9A44-D73C9C65C28C}">
+  DTS:VersionBuild="118"
+  DTS:VersionGUID="{D2193EA1-2A5B-4210-8BD8-E01EBC74F8B4}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -4579,33 +4579,21 @@
         <NodeLayout
           Size="186,42"
           Id="Package\import items_categories\ADO NET Destination"
-          TopLeft="292,328" />
+          TopLeft="248,326" />
         <EdgeLayout
           Id="Package\import items_categories.Paths[Flat File Source Output]"
-          TopLeft="343,204">
+          TopLeft="342,204">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="42,124"
+              EndConnector="0,122"
               Start="0,0"
-              End="42,116.5">
+              End="0,114.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,58" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,58"
-                    Point2="0,62"
-                    Point3="4,62" />
-                  <mssgle:LineSegment
-                    End="38,62" />
-                  <mssgle:CubicBezierSegment
-                    Point1="38,62"
-                    Point2="42,62"
-                    Point3="42,66" />
-                  <mssgle:LineSegment
-                    End="42,116.5" />
+                    End="0,114.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
